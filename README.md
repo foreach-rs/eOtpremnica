@@ -6,8 +6,6 @@ library's own documentation is in
 [src/ForEach.Infrastructure.External.eOtpremnica/README.md](src/ForEach.Infrastructure.External.eOtpremnica/README.md)
 and ships inside the package.
 
-Extracted from the HRC solution, where it was consumed by project reference.
-
 ## Layout
 
 ```
