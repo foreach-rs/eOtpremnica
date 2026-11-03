@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ForEach.Infrastructure.External.eOtpremnica/ForEach.Infrastructure.External.eOtpremnica.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ForEach.Infrastructure.External.eOtpremnica.UnitTests/ForEach.Infrastructure.External.eOtpremnica.UnitTests.csproj" />
+  </Folder>
+</Solution>
