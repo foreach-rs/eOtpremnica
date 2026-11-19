@@ -1,3 +1,5 @@
+> This repository is archived. Development continues in the For-Each package monorepo; version 0.1.0 remains available on nuget.org.
+
 # ForEach.Infrastructure.External.eOtpremnica
 
 Client and UBL 2.1 Despatch Advice writer for the Serbian central register of electronic delivery
